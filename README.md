@@ -65,13 +65,18 @@ and zero otherwise. In the equation, `alpha > 0` is the shape parameter and `bet
 ## Usage
 
 ```javascript
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-logcdf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-pareto-type1-logcdf/tags). For example,
+
+```javascript
 import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-logcdf@v0.1.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-logcdf@v0.1.2-esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-logcdf@esm/index.mjs';
 ```
 
 #### logcdf( x, alpha, beta )
@@ -168,7 +173,7 @@ y = mylogcdf( 2.5 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-logcdf@v0.1.2-esm/index.mjs';
+import logcdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1-logcdf@esm/index.mjs';
 
 var alpha;
 var beta;
