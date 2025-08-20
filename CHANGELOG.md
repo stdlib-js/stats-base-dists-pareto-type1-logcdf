@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-17)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`4589cee`](https://github.com/stdlib-js/stdlib/commit/4589cee4e69b2a4c4a433321f413824a69eebb6e) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`582de14`](https://github.com/stdlib-js/stdlib/commit/582de14d2d72ac0705d8d5d5e837767594354a46) - **docs:** remove empty line [(#7902)](https://github.com/stdlib-js/stdlib/pull/7902) _(by stdlib-bot)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
