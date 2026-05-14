@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Evaluate the natural logarithm of the [cumulative distribution function][cdf] for a [Pareto (Type I)][pareto-distribution] distribution.
+> [Pareto (Type I)][pareto-distribution] distribution logarithm of [cumulative distribution function][cdf].
 
 <section class="intro">
 
