@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-26)
+## Unreleased (2026-09-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0a3d32f`](https://github.com/stdlib-js/stdlib/commit/0a3d32f49ca8288decb7b0fcadd624d65a558e92) - **test:** migrate `stats/base/dists/pareto-type1/logcdf` to ULP-based assertions [(#14948)](https://github.com/stdlib-js/stdlib/pull/14948) _(by Athan Reines)_
 -   [`a3c9b30`](https://github.com/stdlib-js/stdlib/commit/a3c9b303010968027e67b5ebdd61340616246cd4) - **docs:** update descriptions [(#13370)](https://github.com/stdlib-js/stdlib/pull/13370) _(by Philipp Burckhardt, Athan Reines)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
